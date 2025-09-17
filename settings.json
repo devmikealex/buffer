@@ -1,0 +1,244 @@
+{
+    "terminal.integrated.fontSize": 16,
+    "explorer.compactFolders": false,
+    "editor.linkedEditing": true,
+    "code-runner.saveFileBeforeRun": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "material-icon-theme",
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    "editor.renderLineHighlight": "all",
+    "update.enableWindowsBackgroundUpdates": false,
+    "workbench.editor.navigationScope": "editor",
+    "workbench.colorCustomizations": {
+        "editorBracketMatch.border": "#1fa20d",
+        "editorIndentGuide.activeBackground": "#ffd966",
+        "editorSuggestWidget.background": "#04152f",
+        "editorSuggestWidget.border": "#0076ad",
+        "editorSuggestWidget.selectedBackground": "#03344d",
+        // "editorSuggestWidget.highlightForeground": "#ff6a00",
+        "editorWidget.background": "#013b1b",
+        "editorWidget.border": "#00a54a",
+        "editor.lineHighlightBorder": "#373737",
+        "editor.lineHighlightBackground": "#101010",
+        "editor.wordHighlightBackground": "#6712489e",
+        // "editor.wordHighlightStrongBackground": "#6d6df3e8",
+        // "editor.selectionBackground": "#5c003f",
+        // "editor.selectionHighlightBackground": "#760052",
+        "errorLens.errorForeground": "#b95858f8",
+        "errorLens.warningForeground": "#c07024",
+        "errorLens.infoForeground": "#128baa",
+        "errorLens.hintForeground": "#268f52",
+        "minimap.background": "#0f0f0f99",
+        "debugView.stateLabelForeground": "#ff0000",
+        "debugTokenExpression.string": "#b3ff93",
+        "debugTokenExpression.name": "#8dd1ff",
+        "debugTokenExpression.number": "#ff76e8",
+        "debugTokenExpression.value": "#ffe45f",
+        "editorStickyScroll.background": "#00013e99",
+        "titleBar.activeBackground": "#095700",
+        "titleBar.activeForeground": "#ffffff",
+        "titleBar.inactiveBackground": "#0a3464",
+        "titleBar.inactiveForeground": "#c7c7c7",
+        "editorGroupHeader.tabsBackground": "#000000",
+        "editorGroupHeader.tabsBorder": "#3393a4",
+        // "editorGroupHeader.border": "#06e549",
+        "tab.activeBorderTop": "#ffffff",
+        "tab.activeBackground": "#002d00",
+        "tab.hoverBackground": "#003300",
+        // "tab.hoverBorder": "#008500",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveForeground": "#bebebe",
+        "tab.border": "#5e5e5e",
+        // "tab.inactiveBackground": "#ff0374",
+        "activityBar.activeBackground": "#095700",
+        "activityBar.foreground": "#ffffff",
+        "scrollbarSlider.background": "#ffffff4e",
+        "scrollbarSlider.hoverBackground": "#ffffff7a",
+        "scrollbarSlider.activeBackground": "#ffffffa0",
+        "list.errorForeground": "#ff9090",
+        "list.warningForeground": "#ffc800",
+        "gitDecoration.modifiedResourceForeground": "#ede26f"
+        // "gitDecoration.stageModifiedResourceForeground": "#33cc33",
+        // "gitDecoration.deletedResourceForeground": "#ff3333",
+        // "gitDecoration.untrackedResourceForeground": "#66ff66",
+        // "gitDecoration.ignoredResourceForeground": "#999999",
+        // "gitDecoration.conflictingResourceForeground": "#ff9900",
+        // "gitDecoration.stageDeletedResourceForeground": "#cc0000",
+    },
+    // "window.titleBarStyle": "custom",
+    // "workbench.editor.highlightModifiedTabs": true,
+    "update.mode": "manual",
+    "terminal.external.windowsExec": "m:\\_Pf not install\\Cmder\\Cmder.exe",
+    "prettier.tabWidth": 2,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.cursorSurroundingLines": 3,
+    "editor.smoothScrolling": true,
+    "editor.cursorWidth": 4,
+    "editor.guides.bracketPairs": "active",
+    "markdown.preview.fontSize": 16,
+    "eslint.alwaysShowStatus": true,
+    "errorLens.fontWeight": "100",
+    "editor.autoClosingBrackets": "beforeWhitespace",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+    "editor.quickSuggestionsDelay": 200,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "liveServer.settings.ignoreFiles": [
+        "src/**",
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 90,
+    "files.defaultLanguage": "javascript",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "quokka.compactMessageOutput": true,
+    "zenMode.centerLayout": false,
+    "zenMode.hideLineNumbers": false,
+    "[less]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.hovers.enabled": false,
+    "editor.showFoldingControls": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "php.validate.executablePath": "e:/xampp/php/php.exe",
+    "php.executablePath": "e:/xampp/php/php.exe",
+    "phpserver.phpPath": "e:/xampp/php/php.exe",
+    // "editor.minimap.scale": 2,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "liveServer.settings.NoBrowser": true,
+    "liveSassCompile.settings.compileOnWatch": false,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.showOutputWindowOn": "Warning",
+    "extensions.ignoreRecommendations": true,
+    "prettier.endOfLine": "crlf",
+    "AllAutocomplete.dontContributeToSelf": true,
+    "turboConsoleLog.quote": "'",
+    "turboConsoleLog.insertEnclosingFunction": false,
+    "turboConsoleLog.insertEnclosingClass": false,
+    "turboConsoleLog.includeFileNameAndLineNum": false,
+    "ipynb.pasteImagesAsAttachments.enabled": false,
+    "gitlens.currentLine.pullRequests.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "editor.wordWrap": "on",
+    "jest.autoRun": {
+        "onStartup": []
+    },
+    "workbench.editor.wrapTabs": true,
+    "debug.toolBarLocation": "docked",
+    "keepContext.contextStore": "file",
+    "svg.preview.mode": "svg",
+    "tab-groups.gitBranchGroups": "Nothing",
+    "tab-groups.saveGlobally": false,
+    "window.zoomLevel": 1,
+    "editor.suggest.insertMode": "replace",
+    "diffEditor.renderSideBySide": false,
+    "vsintellicode.python.completionsEnabled": false,
+    "vsintellicode.java.completionsEnabled": false,
+    "intellicodeApiExamples.python.enabled": false,
+    "typescript.suggest.paths": false,
+    "javascript.suggest.paths": false,
+    "intellicodeCompletions.language.python": false,
+    "cSpell.language": "en,ru",
+    "window.commandCenter": false,
+
+    "diffEditor.codeLens": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "tabnine.experimentalAutoImports": true,
+    "tabnine.debounceMilliseconds": 100,
+    "rest-client.enableTelemetry": false,
+    "codeium.detectProxy": false,
+    "cody.autocomplete.enabled": true,
+    "extensions.autoUpdate": false,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.editor.customLabels.patterns": {
+        "**/index.{ts,tsx,js,jsx}": "${dirname} / ${filename}.${extname}",
+        "**/page.tsx": "${dirname} / ${filename}",
+        "**/layout.tsx": "${dirname} / ${filename}",
+        "**/api/**/route.ts": "${dirname} / ${filename}"
+    },
+    "continue.telemetryEnabled": false,
+    "cody.telemetry.level": "off",
+    "cody.commandCodeLenses": true,
+    "inference.model": "deepseek-coder:1.3b-base-q8_0",
+    "inference.custom.format": "deepseek",
+    "fittencode.showSubmenu": true,
+
+    "editor.stickyScroll.enabled": false,
+    "editor.unicodeHighlight.allowedLocales": {
+        "ru": true
+    },
+    // "js/ts.implicitProjectConfig.checkJs": true,
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}",
+    "apc.activityBar": {
+        "size": 32,
+    },
+    "apc.header": {
+        "height": 18
+    },
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.17)",
+        "rgba(127,255,127,0.17)",
+        "rgba(255,127,255,0.17)",
+        "rgba(79,236,236,0.17)"
+    ],
+    "window.newWindowDimensions": "maximized",
+    "vscode_custom_css.imports": [
+        "file:///C:/1/1.css"
+    ],
+    "window.density.editorTabHeight": "compact",
+
+    "turboConsoleLog.addSemicolonInTheEnd": true,
+    "diffEditor.experimental.showMoves": true,
+    "bookmarks.saveBookmarksInProject": true,
+    "codeium.enableCodeLens": false,
+    "editor.mouseWheelScrollSensitivity": 2,
+    "continue.pauseCodebaseIndexOnStart": true,
+    "continue.enableConsole": true,
+    "workbench.localHistory.enabled": false,
+    "explorer.confirmDelete": false,
+    "continue.enableTabAutocomplete": false,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "git.openRepositoryInParentFolders": "never",
+    "remote.SSH.remotePlatform": {
+        "127.0.0.1": "linux"
+    },
+    "redhat.telemetry.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // "scm.workingSets.default": "current"
+}
